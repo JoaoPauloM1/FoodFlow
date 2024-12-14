@@ -4,7 +4,8 @@ app = Flask(__name__)
 
 @app.route('/')
 def home():
-    return "Bem-vindo ao FoodFlow!"
+    return "Backend do FoodFlow!"
 
 if __name__ == "__main__":
     app.run(debug=True)
+# URL Backend: https://foodflow-nvcj.onrender.com
