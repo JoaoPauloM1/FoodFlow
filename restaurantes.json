@@ -1,0 +1,19 @@
+{
+    "restaurantes": [
+      {
+        "id": 1,
+        "nome": "Pizzaria Sabor",
+        "categoria": "Pizza",
+        "avaliacao": 4.5,
+        "tempo_entrega": "30-45 min"
+      },
+      {
+        "id": 2,
+        "nome": "Sushi Express",
+        "categoria": "Japonesa",
+        "avaliacao": 4.8,
+        "tempo_entrega": "25-35 min"
+      }
+    ]
+  }
+  
