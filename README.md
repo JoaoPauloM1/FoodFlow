@@ -4,6 +4,8 @@
 <p> Este projeto é um site inspirado no iFood, desenvolvido como parte dos meus estudos em HTML, CSS, JavaScript e Python. O objetivo foi praticar e aprimorar meus conhecimentos nessas tecnologias, criando uma plataforma funcional e interativa no navegador. </p>
 <p> O site permite explorar restaurantes fictícios organizados por categorias, visualizar detalhes como nome, avaliação e descrição, além de aplicar filtros dinâmicos para facilitar a navegação. Todos os dados dos restaurantes são gerenciados por um backend em Python, que envia as informações ao front-end conforme solicitado. </p>
 
+![giphy](https://github.com/user-attachments/assets/e3e123aa-e3f1-4e65-be6e-1a8ee84a9714)
+
 ## 🚀 Tecnologias Utilizadas
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
