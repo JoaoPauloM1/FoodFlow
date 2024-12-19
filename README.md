@@ -1,4 +1,4 @@
-
+![2024-12-19-FoodFlow](https://github.com/user-attachments/assets/9400c8cd-604e-4939-8c47-dbaf6e056abb)
 
 <h2>📌 Sobre</h2>
 <p> Este projeto é um site inspirado no iFood, desenvolvido como parte dos meus estudos em HTML, CSS, JavaScript e Python. O objetivo foi praticar e aprimorar meus conhecimentos nessas tecnologias, criando uma plataforma funcional e interativa no navegador. </p>
