@@ -4,7 +4,7 @@
 <p> Este projeto é um site de restaurantes, desenvolvido como parte dos meus estudos em HTML, CSS, JavaScript e Python. O objetivo foi praticar e aprimorar meus conhecimentos nessas tecnologias, criando uma plataforma funcional e interativa no navegador. </p>
 <p> O site permite explorar restaurantes fictícios organizados por categorias, visualizar detalhes como nome, avaliação e descrição, além de aplicar filtros dinâmicos para facilitar a navegação. Todos os dados dos restaurantes são gerenciados por um backend em Python, que envia as informações ao front-end conforme solicitado. </p>
 
-![giphy](https://github.com/user-attachments/assets/e3e123aa-e3f1-4e65-be6e-1a8ee84a9714)
+![giphy](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA1ZTczbTVlMXZtcmJmdzMwaHM5NnVkaXAzczJkZGd0em5xZjZoOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rdMYuReB3gY54grNo7/giphy.gif)
 
 ## 🚀 Tecnologias Utilizadas
 <div>
