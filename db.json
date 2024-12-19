@@ -1,0 +1,148 @@
+{
+    "restaurantes": [
+      {
+        "id": 1,
+        "nome": "Burger Blast",
+        "categoria": "Fast Food",
+        "avaliacao": 4.8,
+        "descricao": "O melhor hambúrguer artesanal com ingredientes frescos e molhos exclusivos.",
+        "capa": "img/burger-blast-logo.png"
+      },
+      {
+        "id": 2,
+        "nome": "Fritas & Cia",
+        "categoria": "Fast Food",
+        "avaliacao": 4.5,
+        "descricao": "Batatas fritas com dezenas de combinações de sabores e acompanhamentos.",
+        "capa": "img/fritas-cia-logo.png"
+      },
+      {
+        "id": 3,
+        "nome": "Mega Dogs",
+        "categoria": "Fast Food",
+        "avaliacao": 4.6,
+        "descricao": "Hot dogs gigantes com recheios surpreendentes.",
+        "capa": "img/mega-dogs-logo.png"
+      },
+      {
+        "id": 4,
+        "nome": "Sushi Zen",
+        "categoria": "Japonesa",
+        "avaliacao": 4.9,
+        "descricao": "Sushis e sashimis preparados na hora por chefs experientes.",
+        "capa": "img/sushi-zen-logo.png"
+      },
+      {
+        "id": 5,
+        "nome": "Tokyo Bites",
+        "categoria": "Japonesa",
+        "avaliacao": 4.7,
+        "descricao": "Uma experiência gastronômica com pratos tradicionais japoneses.",
+        "capa": "img/tokyo-bites-logo.png"
+      },
+      {
+        "id": 6,
+        "nome": "Ramen House",
+        "categoria": "Japonesa",
+        "avaliacao": 4.8,
+        "descricao": "Autêntico ramen japonês com caldo rico e sabores intensos.",
+        "capa": "img/ramen-house-logo.png"
+      },
+      {
+        "id": 7,
+        "nome": "La Pasta",
+        "categoria": "Massas",
+        "avaliacao": 4.8,
+        "descricao": "Massas italianas feitas à mão com molhos tradicionais.",
+        "capa": "img/la-pasta-logo.png"
+      },
+      {
+        "id": 8,
+        "nome": "Spaghetti & Co.",
+        "categoria": "Massas",
+        "avaliacao": 4.5,
+        "descricao": "Especialistas em espaguetes e lasanhas para todos os gostos.",
+        "capa": "img/spaghetti-co-logo.png"
+      },
+      {
+        "id": 9,
+        "nome": "Ravioli Dreams",
+        "categoria": "Massas",
+        "avaliacao": 4.7,
+        "descricao": "Raviolis recheados com combinações deliciosas e criativas.",
+        "capa": "img/ravioli-dreams-logo.png"
+      },
+      {
+        "id": 10,
+        "nome": "Sweet Heaven",
+        "categoria": "Doces",
+        "avaliacao": 4.9,
+        "descricao": "Tortas e bolos que derretem na boca, perfeitos para qualquer ocasião.",
+        "capa": "img/sweet-heaven-logo.png"
+      },
+      {
+        "id": 11,
+        "nome": "Choco Bliss",
+        "categoria": "Doces",
+        "avaliacao": 4.7,
+        "descricao": "Especializados em chocolates artesanais e sobremesas irresistíveis.",
+        "capa": "img/choco-bliss-logo.png"
+      },
+      {
+        "id": 12,
+        "nome": "Delícia Gelada",
+        "categoria": "Doces",
+        "avaliacao": 4.6,
+        "descricao": "Sorvetes e milkshakes com sabores únicos e deliciosos.",
+        "capa": "img/delicia-gelada-logo.png"
+      },
+      {
+        "id": 13,
+        "nome": "Caseirinha",
+        "categoria": "Marmita",
+        "avaliacao": 4.8,
+        "descricao": "Comida caseira preparada com amor e ingredientes frescos.",
+        "capa": "img/caseirinha-logo.png"
+      },
+      {
+        "id": 14,
+        "nome": "Marmitex Express",
+        "categoria": "Marmita",
+        "avaliacao": 4.5,
+        "descricao": "Marmitas deliciosas entregues em tempo recorde.",
+        "capa": "img/marmitex-express-logo.png"
+      },
+      {
+        "id": 15,
+        "nome": "Sabor do Lar",
+        "categoria": "Marmita",
+        "avaliacao": 4.7,
+        "descricao": "Sabores que lembram a comida da casa da vovó.",
+        "capa": "img/sabor-do-lar-logo.png"
+      },
+      {
+        "id": 16,
+        "nome": "Green Bowl",
+        "categoria": "Saudável",
+        "avaliacao": 4.7,
+        "descricao": "Saladas, wraps e bowls nutritivos para uma alimentação leve e equilibrada.",
+        "capa": "img/green-bowl-logo.png"
+      },
+      {
+        "id": 17,
+        "nome": "Vida Leve",
+        "categoria": "Saudável",
+        "avaliacao": 4.8,
+        "descricao": "Pratos saudáveis e saborosos, ideais para o dia a dia.",
+        "capa": "img/vida-leve-logo.png"
+      },
+      {
+        "id": 18,
+        "nome": "Nature's Delight",
+        "categoria": "Saudável",
+        "avaliacao": 4.9,
+        "descricao": "Combinações frescas e orgânicas para quem busca equilíbrio.",
+        "capa": "img/natures-delight-logo.png"
+      }
+    ]
+  }
