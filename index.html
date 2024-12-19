@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FoodFlow</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div class="container-logo">
+        <img src="../img/logo.png" class="logo">
+    </div>
+    <div class="container-botoes">
+        <h1 class="filtrar"> Filtrar Por</h1>
+        <button class="botoes"> Fast Food </button>
+        <button class="botoes"> Japonêsa </button>
+        <button class="botoes"> Massas </button>
+        <button class="botoes"> Doces </button>
+        <button class="botoes"> Marmita </button>
+        <button class="botoes"> Saudável </button>
+    </div>
+
+    <div class="container-restaurantes">
+        <span restaurante-id>
+          <img src="../img/logo.png" class="capa-restaurante" />
+          <div class="avaliacao-container">
+            <span class="avaliacao">4.8</span>
+            <img src="../img/avaliacao.png" class="avaliacao-img" />
+          </div>
+          <div class="conteudo-restaurante">
+            <span class="nome-restaurante">Nome do Restaurante</span>
+            <span class="descricao-restaurante">Descrição do Restaurante</span>
+          </div>
+        </span>
+    </div>   
+
+    <script src="api.js" type="module"></script>
+    <script src="ui.js" type="module"></script>
+</body>
+</html>
