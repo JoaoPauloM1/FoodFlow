@@ -16,10 +16,5 @@ if __name__ == "__main__":
 def get_restaurants():
     url = 'https://joaopaulom1.github.io/FoodFlow/db.json'
     response = requests.get(url)
-    if response.status_code == 200:
-        dados = response.json()
-        print(dados)
-        return jsonify(dados)
-    else:
-        print(f'O erro foi: {response.status_code}')
+    dados = response.json()
 get_restaurants()
