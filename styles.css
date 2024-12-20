@@ -58,11 +58,11 @@ body {
     width: 90%;
     max-width: 1200px;
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     gap: 20px;
 }
 
-.container-restaurantes span[restaurante-id] {
+.container-restaurante {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -74,9 +74,10 @@ body {
     transition: transform 0.2s ease;
     gap: 15px;
     position: relative;
+    width: 100%;
 }
 
-.container-restaurantes span[restaurante-id]:hover {
+.container-restaurante:hover {
     transform: scale(1.02);
 }
 
@@ -92,16 +93,19 @@ body {
 .conteudo-restaurante {
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
     flex-grow: 1;
+    margin-left: 135px;
 }
 
 .nome-restaurante {
     font-size: 18px;
     font-weight: bold;
     color: #333;
-    margin-bottom: 5px;
+    margin: 0;
     transition: color 0.3s, transform 0.3s;
     cursor: pointer;
+    margin-top: -120px;
 }
 
 .nome-restaurante:hover {
@@ -116,7 +120,8 @@ body {
 .descricao-restaurante {
     font-size: 14px;
     color: #666;
-    margin-bottom: 10px;
+    margin: 0;
+    margin-top: 5px;
 }
 
 .avaliacao-container {
