@@ -1,5 +1,5 @@
 const api = {
-    async carregarRestaurantes() {
+    async carregarDados() {
         try {
             const response = await fetch('https://joaopaulom1.github.io/FoodFlow/db.json')
             return await response.json()       

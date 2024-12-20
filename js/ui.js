@@ -4,7 +4,7 @@ async function renderizarRestaurantes() {
     const divRestaurantes = document.getElementById('container-restaurantes');
 
     try {
-        const { restaurantes } = await api.carregarRestaurantes();
+        const { restaurantes } = await api.carregarDados();
         divRestaurantes.innerHTML = '';
 
         let htmlContent = '';
