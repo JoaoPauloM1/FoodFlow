@@ -152,7 +152,7 @@
         "nome": "Smash Blast",
         "descricao": "Suculento hambúrguer smash, com maionese da casa, queijo e salada.",
         "restaurante": "Burger Blast",
-         "capa": "img/smash-blast.png"
+        "capa": "img/smash-blast.png"
       },
       {
         "id": 2,
@@ -903,5 +903,5 @@
         "restaurante": "Nature's Delight",
         "capa": "img/wrap-atum.png"
       }      
-    ]      
-}   
+    ] 
+} 
