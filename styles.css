@@ -62,7 +62,7 @@ body {
     gap: 20px;
 }
 
-.container-restaurante {
+.container-restaurante, .container-prato {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -77,11 +77,11 @@ body {
     width: 100%;
 }
 
-.container-restaurante:hover {
+.container-restaurante:hover, .container-prato:hover {
     transform: scale(1.02);
 }
 
-.capa-restaurante {
+.capa-restaurante, .capa-prato {
     width: 120px;
     height: 120px;
     border-radius: 8px;
@@ -117,7 +117,7 @@ body {
     transform: scale(1);
 }
 
-.descricao-restaurante {
+.descricao-restaurante, .descricao-prato {
     font-size: 14px;
     color: #666;
     margin: 0;
@@ -146,4 +146,53 @@ body {
     background-color: transparent;
     border: none;
     display: inline-block;
+}
+
+.botao-voltar {
+    background-color: #ffffff;
+    color: #ff7f00;
+    border: 2px solid #ff7f00;
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.botao-voltar:hover {
+    background-color: #ff7f00;
+    color: #ffffff;
+}
+
+.pratos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.titulo-pratos {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.nome-prato {
+    font-size: 18px;
+    font-weight: bold;
+    color: #333;
+    margin: 0;
+    transition: color 0.3s, transform 0.3s;
+    cursor: pointer;
+}
+
+.conteudo-prato {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    flex-grow: 1;
 }

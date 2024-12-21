@@ -32,9 +32,17 @@ async function renderizarRestaurantes() {
             botao.addEventListener("click", () => {
                 const categoria = botao.getAttribute("data-categoria");
                 filtrarRestaurantes(categoria);
-            })
-        })
-        
+            });
+        });
+
+        const nomesRestaurantes = document.querySelectorAll(".nome-restaurante");
+        nomesRestaurantes.forEach(nome => {
+            nome.addEventListener("click", (event) => {
+                const restauranteId = nome.closest('[data-restaurante-id]').getAttribute('data-restaurante-id');
+                exibirPratosRestaurante(restauranteId);
+            });
+        });
+
     } catch (error) {
         console.error("Erro ao carregar dados:", error);
         alert("Erro ao carregar dados.");
@@ -46,16 +54,68 @@ function filtrarRestaurantes(categoria) {
 
     restaurantes.forEach(restaurante => {
         if (categoria === "todos") {
-            // Mostrar todos os restaurantes
             restaurante.style.display = "block";
         } else if (restaurante.getAttribute("data-categoria") === categoria) {
-            // Mostrar apenas os restaurantes que correspondem à categoria
             restaurante.style.display = "block";
         } else {
-            // Ocultar os restaurantes que não correspondem à categoria
             restaurante.style.display = "none";
         }
     });
+}
+
+async function exibirPratosRestaurante(restauranteId) {
+    const divRestaurantes = document.getElementById('container-restaurantes');
+
+    try {
+        const { pratos, restaurantes } = await api.carregarDados();
+
+        const restauranteSelecionado = restaurantes.find(rest => rest.id == restauranteId);
+
+        if (!restauranteSelecionado) {
+            alert("Restaurante não encontrado!");
+            return;
+        }
+
+        const nomeRestaurante = restauranteSelecionado.nome.toLowerCase().trim();
+        const pratosFiltrados = pratos.filter(prato => 
+            prato.restaurante.toLowerCase().trim() === nomeRestaurante
+        );
+
+        divRestaurantes.innerHTML = '';
+
+        let htmlContent = `
+            <h2 class="titulo-pratos">${restauranteSelecionado.nome}</h2>
+            <div class="pratos-container">
+        `;
+
+        pratosFiltrados.forEach(prato => {
+            htmlContent += `
+            <div class="container-prato">
+                <img src="${prato.capa}" class="capa-prato" />
+                <div class="conteudo-prato">
+                    <span class="nome-prato">${prato.nome}</span>
+                    <span class="descricao-prato">${prato.descricao}</span>
+                </div>
+            </div>
+            `;
+        });
+
+        htmlContent += `
+            </div>
+            <button id="voltar-restaurantes" class="botao-voltar">Voltar</button>
+        `;
+
+        divRestaurantes.innerHTML = htmlContent;
+
+        const botaoVoltar = document.getElementById("voltar-restaurantes");
+        botaoVoltar.addEventListener("click", () => {
+            renderizarRestaurantes();
+        });
+
+    } catch (error) {
+        console.error("Erro ao carregar pratos:", error);
+        alert("Erro ao carregar pratos.");
+    }
 }
 
 renderizarRestaurantes();
