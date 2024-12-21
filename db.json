@@ -144,5 +144,176 @@
         "descricao": "Combinações frescas e orgânicas para quem busca equilíbrio.",
         "capa": "img/natures-delight-logo.png"
       }
-    ]
-  }
+    ],
+
+    "pratos": [
+    {
+      "id": 1,
+      "nome": "Smash Blast",
+      "descricao": "Suculento hambúrguer smash, com maionese da casa, queijo e salada.",
+      "restaurante": "Burger Blast",
+      "capa": "img/smash-blast.png"
+    },
+    {
+      "id": 2,
+      "nome": "Burger Supreme",
+      "descricao": "Hambúrguer duplo com queijo cheddar, bacon crocante e molho especial.",
+      "restaurante": "Burger Blast",
+      "capa": "img/burger-supreme.png"
+    },
+    {
+      "id": 3,
+      "nome": "Chicken Blast",
+      "descricao": "Filé de frango empanado no pão brioche com maionese temperada.",
+      "restaurante": "Burger Blast",
+      "capa": "img/chicken-blast.png"
+    },
+    {
+      "id": 4,
+      "nome": "Veggie Delight",
+      "descricao": "Hambúrguer vegetariano feito com grão-de-bico e ervas finas.",
+      "restaurante": "Burger Blast",
+      "capa": "img/veggie-delight.png"
+    },
+    {
+      "id": 5,
+      "nome": "Onion Rings Combo",
+      "descricao": "Anéis de cebola crocantes com molho barbecue.",
+      "restaurante": "Burger Blast",
+      "capa": "img/onion-rings.png"
+    },
+    {
+      "id": 6,
+      "nome": "Cheddar Fries",
+      "descricao": "Batatas fritas com cheddar cremoso e bacon.",
+      "restaurante": "Burger Blast",
+      "capa": "img/cheddar-fries.png"
+    },
+    {
+      "id": 7,
+      "nome": "Fritas Clássicas",
+      "descricao": "Batatas fritas crocantes com tempero especial.",
+      "restaurante": "Fritas & Cia",
+      "capa": "img/fritas-classicas.png"
+    },
+    {
+      "id": 8,
+      "nome": "Fritas com Cheddar",
+      "descricao": "Batatas fritas com cheddar derretido e molho especial.",
+      "restaurante": "Fritas & Cia",
+      "capa": "img/fritas-cheddar.png"
+    },
+    {
+      "id": 9,
+      "nome": "Fritas Bacon Lovers",
+      "descricao": "Batatas fritas cobertas com bacon crocante.",
+      "restaurante": "Fritas & Cia",
+      "capa": "img/fritas-bacon-lovers.png"
+    },
+    {
+      "id": 10,
+      "nome": "Fritas Supreme",
+      "descricao": "Batatas fritas com queijo, carne moída e molho ranch.",
+      "restaurante": "Fritas & Cia",
+      "capa": "img/fritas-supreme.png"
+    },
+    {
+      "id": 11,
+      "nome": "Fritas Rústicas",
+      "descricao": "Batatas rústicas temperadas com alecrim e sal grosso.",
+      "restaurante": "Fritas & Cia",
+      "capa": "img/fritas-rusticas.png"
+    },
+    {
+      "id": 12,
+      "nome": "Sweet Potato Fries",
+      "descricao": "Batatas doces fritas com toque de mel.",
+      "restaurante": "Fritas & Cia",
+      "capa": "img/sweet-potato-fries.png"
+    },
+    {
+      "id": 13,
+      "nome": "Hot Dog Tradicional",
+      "descricao": "Cachorro-quente com salsicha, ketchup e mostarda.",
+      "restaurante": "Mega Dogs",
+      "capa": "img/hotdog-tradicional.png"
+    },
+    {
+      "id": 14,
+      "nome": "Hot Dog Supreme",
+      "descricao": "Cachorro-quente com cheddar, bacon e batata palha.",
+      "restaurante": "Mega Dogs",
+      "capa": "img/hotdog-supreme.png"
+    },
+    {
+      "id": 15,
+      "nome": "Mega Dog Cheese",
+      "descricao": "Hot dog com queijo cremoso e molho especial.",
+      "restaurante": "Mega Dogs",
+      "capa": "img/mega-dog-cheese.png"
+    },
+    {
+      "id": 16,
+      "nome": "Mega Dog Veggie",
+      "descricao": "Cachorro-quente com salsicha vegetariana e salada.",
+      "restaurante": "Mega Dogs",
+      "capa": "img/mega-dog-veggie.png"
+    },
+    {
+      "id": 17,
+      "nome": "Hot Dog BBQ",
+      "descricao": "Cachorro-quente com molho barbecue e cebolas caramelizadas.",
+      "restaurante": "Mega Dogs",
+      "capa": "img/hotdog-bbq.png"
+    },
+    {
+      "id": 18,
+      "nome": "Mega Combo Dog",
+      "descricao": "Hot dog completo com todos os ingredientes.",
+      "restaurante": "Mega Dogs",
+      "capa": "img/mega-combo-dog.png"
+    },
+    {
+      "id": 19,
+      "nome": "Sushi Tradicional",
+      "descricao": "Combinado de sushi com salmão e atum frescos.",
+      "restaurante": "Sushi Zen",
+      "capa": "img/sushi-tradicional.png"
+    },
+    {
+      "id": 20,
+      "nome": "Temaki Salmão",
+      "descricao": "Cone de alga recheado com salmão e arroz temperado.",
+      "restaurante": "Sushi Zen",
+      "capa": "img/temaki-salmao.png"
+    },
+    {
+      "id": 21,
+      "nome": "Sashimi Especial",
+      "descricao": "Fatias de salmão, atum e peixe branco frescos.",
+      "restaurante": "Sushi Zen",
+      "capa": "img/sashimi-especial.png"
+    },
+    {
+      "id": 22,
+      "nome": "Uramaki Califórnia",
+      "descricao": "Rolinho de arroz com manga, kani e pepino.",
+      "restaurante": "Sushi Zen",
+      "capa": "img/uramaki-california.png"
+    },
+    {
+      "id": 23,
+      "nome": "Nigiri Salmão",
+      "descricao": "Arroz com fatia de salmão fresco por cima.",
+      "restaurante": "Sushi Zen",
+      "capa": "img/nigiri-salmao.png"
+    },
+    {
+      "id": 24,
+      "nome": "Gunkan Especial",
+      "descricao": "Bolinho de arroz com ovas de peixe.",
+      "restaurante": "Sushi Zen",
+      "capa": "img/gunkan-especial.png"
+    }
+  ]
+}
