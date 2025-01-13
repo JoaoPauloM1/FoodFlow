@@ -119,5 +119,4 @@ async function exibirPratosRestaurante(restauranteId) {
         alert("Error loading data.");
     }
 }
-
 renderizarRestaurantes();
