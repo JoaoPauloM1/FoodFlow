@@ -1,3 +1,5 @@
+// Note: Variable and functions names are in Portuguese as the project was initially developed this way.
+
 import api from "./api.js";
 
 async function renderizarRestaurantes() {
@@ -44,8 +46,8 @@ async function renderizarRestaurantes() {
         });
 
     } catch (error) {
-        console.error("Erro ao carregar dados:", error);
-        alert("Erro ao carregar dados.");
+        console.error("Error loading data:", error);
+        alert("Error loading data.");
     }
 }
 
@@ -72,7 +74,7 @@ async function exibirPratosRestaurante(restauranteId) {
         const restauranteSelecionado = restaurantes.find(rest => rest.id == restauranteId);
 
         if (!restauranteSelecionado) {
-            alert("Restaurante não encontrado!");
+            alert("Error loading data.");
             return;
         }
 
@@ -102,7 +104,7 @@ async function exibirPratosRestaurante(restauranteId) {
 
         htmlContent += `
             </div>
-            <button id="voltar-restaurantes" class="botao-voltar">Voltar</button>
+            <button id="voltar-restaurantes" class="botao-voltar">Back</button>
         `;
 
         divRestaurantes.innerHTML = htmlContent;
@@ -113,8 +115,8 @@ async function exibirPratosRestaurante(restauranteId) {
         });
 
     } catch (error) {
-        console.error("Erro ao carregar pratos:", error);
-        alert("Erro ao carregar pratos.");
+        console.error("Error loading data:", error);
+        alert("Error loading data.");
     }
 }
 
