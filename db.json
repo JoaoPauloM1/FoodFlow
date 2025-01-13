@@ -3,7 +3,7 @@
       {
         "id": 1,
         "nome": "Burger Blast",
-        "categoria": "Fast Food",
+        "categoria": "fast food",
         "avaliacao": 4.8,
         "descricao": "The best handmade burger with fresh ingredients and exclusive sauces.",
         "capa": "img/burger-blast-logo.png"
@@ -11,7 +11,7 @@
       {
         "id": 2,
         "nome": "Fritas & Cia",
-        "categoria": "Fast Food",
+        "categoria": "fast food",
         "avaliacao": 4.5,
         "descricao": "French fries with dozens of flavor and topping combinations.",
         "capa": "img/fritas-cia-logo.png"
@@ -19,7 +19,7 @@
       {
         "id": 3,
         "nome": "Mega Dogs",
-        "categoria": "Fast Food",
+        "categoria": "fast food",
         "avaliacao": 4.6,
         "descricao": "Giant hot dogs with surprising fillings.",
         "capa": "img/mega-dogs-logo.png"
@@ -27,7 +27,7 @@
       {
         "id": 4,
         "nome": "Sushi Zen",
-        "categoria": "Japanese",
+        "categoria": "japonesa",
         "avaliacao": 4.9,
         "descricao": "Sushis and sashimis prepared on the spot by experienced chefs.",
         "capa": "img/sushi-zen-logo.png"
@@ -35,7 +35,7 @@
       {
         "id": 5,
         "nome": "Tokyo Bites",
-        "categoria": "Japanese",
+        "categoria": "japonesa",
         "avaliacao": 4.7,
         "descricao": "A gastronomic experience with traditional Japanese dishes.",
         "capa": "img/tokyo-bites-logo.png"
@@ -43,7 +43,7 @@
       {
         "id": 6,
         "nome": "Ramen House",
-        "categoria": "Japanese",
+        "categoria": "japonesa",
         "avaliacao": 4.8,
         "descricao": "Authentic Japanese ramen with rich broth and intense flavors.",
         "capa": "img/ramen-house-logo.png"
@@ -51,7 +51,7 @@
       {
         "id": 7,
         "nome": "La Pasta",
-        "categoria": "Pasta",
+        "categoria": "massas",
         "avaliacao": 4.8,
         "descricao": "Handmade Italian pasta with traditional sauces.",
         "capa": "img/la-pasta-logo.png"
@@ -59,7 +59,7 @@
       {
         "id": 8,
         "nome": "Spaghetti & Co.",
-        "categoria": "Pasta",
+        "categoria": "massas",
         "avaliacao": 4.5,
         "descricao": "Specialists in spaghetti and lasagna for all tastes.",
         "capa": "img/spaghetti-co-logo.png"
@@ -67,7 +67,7 @@
       {
         "id": 9,
         "nome": "Ravioli Dreams",
-        "categoria": "Pasta",
+        "categoria": "massas",
         "avaliacao": 4.7,
         "descricao": "Raviolis filled with delicious and creative combinations.",
         "capa": "img/ravioli-dreams-logo.png"
@@ -75,7 +75,7 @@
       {
         "id": 10,
         "nome": "Sweet Heaven",
-        "categoria": "Sweets",
+        "categoria": "doces",
         "avaliacao": 4.9,
         "descricao": "Pies and cakes that melt in your mouth, perfect for any occasion.",
         "capa": "img/sweet-heaven-logo.png"
@@ -83,7 +83,7 @@
       {
         "id": 11,
         "nome": "Choco Bliss",
-        "categoria": "Sweets",
+        "categoria": "doces",
         "avaliacao": 4.7,
         "descricao": "Specialized in handmade chocolates and irresistible desserts.",
         "capa": "img/choco-bliss-logo.png"
@@ -91,7 +91,7 @@
       {
         "id": 12,
         "nome": "Delícia Gelada",
-        "categoria": "Sweets",
+        "categoria": "doces",
         "avaliacao": 4.6,
         "descricao": "Ice creams and milkshakes with unique and delicious flavors.",
         "capa": "img/delicia-gelada-logo.png"
@@ -99,7 +99,7 @@
       {
         "id": 13,
         "nome": "Caseirinha",
-        "categoria": "Meal Boxes",
+        "categoria": "marmita",
         "avaliacao": 4.8,
         "descricao": "Homemade food prepared with love and fresh ingredients.",
         "capa": "img/caseirinha-logo.png"
@@ -107,7 +107,7 @@
       {
         "id": 14,
         "nome": "Marmitex Express",
-        "categoria": "Meal Boxes",
+        "categoria": "marmita",
         "avaliacao": 4.5,
         "descricao": "Delicious meal boxes delivered in record time.",
         "capa": "img/marmitex-express-logo.png"
@@ -115,7 +115,7 @@
       {
         "id": 15,
         "nome": "Sabor do Lar",
-        "categoria": "Meal Boxes",
+        "categoria": "marmita",
         "avaliacao": 4.7,
         "descricao": "Flavors that remind you of grandma's home cooking.",
         "capa": "img/sabor-do-lar-logo.png"
@@ -123,7 +123,7 @@
       {
         "id": 16,
         "nome": "Green Bowl",
-        "categoria": "Healthy",
+        "categoria": "saudável",
         "avaliacao": 4.7,
         "descricao": "Salads, wraps, and bowls that are nutritious for a light and balanced diet.",
         "capa": "img/green-bowl-logo.png"
@@ -131,7 +131,7 @@
       {
         "id": 17,
         "nome": "Vida Leve",
-        "categoria": "Healthy",
+        "categoria": "saudável",
         "avaliacao": 4.8,
         "descricao": "Healthy and flavorful dishes, perfect for daily life.",
         "capa": "img/vida-leve-logo.png"
@@ -139,7 +139,7 @@
       {
         "id": 18,
         "nome": "Nature's Delight",
-        "categoria": "Healthy",
+        "categoria": "saudável",
         "avaliacao": 4.9,
         "descricao": "Fresh and organic combinations for those seeking balance.",
         "capa": "img/natures-delight-logo.png"
