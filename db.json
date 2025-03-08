@@ -347,51 +347,51 @@
       {
         "id": 29,
         "nome": "Salmon Uramaki",
-        "descricao": "Rice roll with salmon and avocado.",
+        "descricao": "Uramaki com salmão e abacate.",
         "restaurante": "Tokyo Bites",
-        "capa": "img/uramaki-salmon.png"
+        "capa": "img/uramaki-salmao.png"
       },
       {
         "id": 30,
         "nome": "Tuna Maki",
         "descricao": "Rice rolls with fresh tuna and soy sauce.",
         "restaurante": "Tokyo Bites",
-        "capa": "img/maki-tuna.png"
+        "capa": "img/maki-atum.png"
       },
       {
         "id": 31,
         "nome": "Traditional Ramen",
         "descricao": "Noodle soup with rich broth and pork.",
         "restaurante": "Ramen House",
-        "capa": "img/ramen-traditional.png"
+        "capa": "img/ramen-tradicional.png"
       },
       {
         "id": 32,
         "nome": "Chicken Ramen",
         "descricao": "Ramen with grilled chicken, bamboo shoots, and boiled eggs.",
         "restaurante": "Ramen House",
-        "capa": "img/ramen-chicken.png"
+        "capa": "img/ramen-frango.png"
       },
       {
         "id": 33,
         "nome": "Vegetarian Yakisoba",
         "descricao": "Fried noodles with vegetables and special sauce.",
         "restaurante": "Ramen House",
-        "capa": "img/yakisoba-vegetarian.png"
+        "capa": "img/yakisoba-vegetariano.png"
       },
       {
         "id": 34,
         "nome": "Vegetable Gyoza",
         "descricao": "Japanese dumplings filled with fresh vegetables.",
         "restaurante": "Ramen House",
-        "capa": "img/gyoza-vegetable.png"
+        "capa": "img/gyoza-legumes.png"
       },
       {
         "id": 35,
         "nome": "Shrimp Tempura",
         "descricao": "Battered and fried shrimp served with tare sauce.",
         "restaurante": "Ramen House",
-        "capa": "img/tempura-shrimp.png"
+        "capa": "img/tempura-camarao.png"
       },
       {
         "id": 36,
@@ -412,7 +412,7 @@
         "nome": "Bolognese Lasagna",
         "descricao": "Layers of pasta with bolognese sauce, cheese, and béchamel.",
         "restaurante": "La Pasta",
-        "capa": "img/lasagna-bolognese.png"
+        "capa": "img/lasanha-bolonhesa.png"
       },
       {
         "id": 39,
@@ -426,7 +426,7 @@
         "nome": "Ricotta Ravioli",
         "descricao": "Ravioli stuffed with ricotta and spinach, served with tomato sauce.",
         "restaurante": "La Pasta",
-        "capa": "img/ravioli-ricotta.png"
+        "capa": "img/ravioli-ricota.png"
       },
       {
         "id": 41,
@@ -440,56 +440,56 @@
         "nome": "Tagliatelle with Mushrooms",
         "descricao": "Tagliatelle pasta with a fresh mushroom sauce and cream.",
         "restaurante": "La Pasta",
-        "capa": "img/tagliatelle-mushrooms.png"
+        "capa": "img/tagliatelle-cogumelos.png"
       },
       {
         "id": 43,
         "nome": "Spaghetti Puttanesca",
         "descricao": "Spaghetti with a tomato sauce, olives, capers, and anchovies.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/spaghetti-puttanesca.png"
+        "capa": "img/spaghetti-carbonara.png"
       },
       {
         "id": 44,
         "nome": "Spaghetti Aglio e Olio",
         "descricao": "Simple spaghetti with fried garlic, olive oil, and chili flakes.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/spaghetti-aglio-olio.png"
+        "capa": "img/espaguete-alho-olho.png"
       },
       {
         "id": 45,
         "nome": "Vegetarian Lasagna",
         "descricao": "Lasagna with layers of grilled vegetables and white sauce.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/lasagna-vegetarian.png"
+        "capa": "img/lasanha-vegetariana.png"
       },
       {
         "id": 46,
         "nome": "Spaghetti with White Sauce",
         "descricao": "Pasta with a creamy cheese and nutmeg white sauce.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/spaghetti-white-sauce.png"
+        "capa": "img/spaghetti-molho-branco.png"
       },
       {
         "id": 47,
         "nome": "Mushroom Ravioli",
         "descricao": "Ravioli stuffed with mushrooms, served with truffle sauce.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/ravioli-mushroom.png"
+        "capa": "img/ravioli-cogumelos.png"
       },
       {
         "id": 48,
         "nome": "Puttanesca Pasta",
         "descricao": "Pasta with a tomato sauce, olives, garlic, and anchovies.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/pasta-puttanesca.png"
+        "capa": "img/macarrao-puttanesca.png"
       },
       {
         "id": 49,
         "nome": "Meat Ravioli",
         "descricao": "Ravioli stuffed with ground meat, served with a tomato sauce.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/ravioli-meat.png"
+        "capa": "img/ravioli-carne.png"
       },
       {
         "id": 50,
