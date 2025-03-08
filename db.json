@@ -5,7 +5,7 @@
         "nome": "Burger Blast",
         "categoria": "fast food",
         "avaliacao": 4.8,
-        "descricao": "The best handmade burger with fresh ingredients and exclusive sauces.",
+        "descricao": "O melhor hambúrguer artesanal com ingredientes frescos e molhos exclusivos.",
         "capa": "img/burger-blast-logo.png"
       },
       {
@@ -13,7 +13,7 @@
         "nome": "Fritas & Cia",
         "categoria": "fast food",
         "avaliacao": 4.5,
-        "descricao": "French fries with dozens of flavor and topping combinations.",
+        "descricao": "Batatas fritas com dezenas de combinações de sabores e coberturas.",
         "capa": "img/fritas-cia-logo.png"
       },
       {
@@ -21,7 +21,7 @@
         "nome": "Mega Dogs",
         "categoria": "fast food",
         "avaliacao": 4.6,
-        "descricao": "Giant hot dogs with surprising fillings.",
+        "descricao": "Cachorros-quentes gigantes com recheios surpreendentes.",
         "capa": "img/mega-dogs-logo.png"
       },
       {
@@ -29,7 +29,7 @@
         "nome": "Sushi Zen",
         "categoria": "japonesa",
         "avaliacao": 4.9,
-        "descricao": "Sushis and sashimis prepared on the spot by experienced chefs.",
+        "descricao": "Sushis e sashimis preparados na hora por chefs experientes.",
         "capa": "img/sushi-zen-logo.png"
       },
       {
@@ -37,7 +37,7 @@
         "nome": "Tokyo Bites",
         "categoria": "japonesa",
         "avaliacao": 4.7,
-        "descricao": "A gastronomic experience with traditional Japanese dishes.",
+        "descricao": "Uma experiência gastronômica com pratos tradicionais japoneses.",
         "capa": "img/tokyo-bites-logo.png"
       },
       {
@@ -45,7 +45,7 @@
         "nome": "Ramen House",
         "categoria": "japonesa",
         "avaliacao": 4.8,
-        "descricao": "Authentic Japanese ramen with rich broth and intense flavors.",
+        "descricao": "Autêntico lámen japonês com caldo rico e sabores intensos.",
         "capa": "img/ramen-house-logo.png"
       },
       {
@@ -53,7 +53,7 @@
         "nome": "La Pasta",
         "categoria": "massas",
         "avaliacao": 4.8,
-        "descricao": "Handmade Italian pasta with traditional sauces.",
+        "descricao": "Massas italianas artesanais com molhos tradicionais.",
         "capa": "img/la-pasta-logo.png"
       },
       {
@@ -61,7 +61,7 @@
         "nome": "Spaghetti & Co.",
         "categoria": "massas",
         "avaliacao": 4.5,
-        "descricao": "Specialists in spaghetti and lasagna for all tastes.",
+        "descricao": "Especialistas em espaguete e lasanha para todos os gostos.",
         "capa": "img/spaghetti-co-logo.png"
       },
       {
@@ -69,7 +69,7 @@
         "nome": "Ravioli Dreams",
         "categoria": "massas",
         "avaliacao": 4.7,
-        "descricao": "Raviolis filled with delicious and creative combinations.",
+        "descricao": "Raviolis recheados com combinações deliciosas e criativas.",
         "capa": "img/ravioli-dreams-logo.png"
       },
       {
@@ -77,7 +77,7 @@
         "nome": "Sweet Heaven",
         "categoria": "doces",
         "avaliacao": 4.9,
-        "descricao": "Pies and cakes that melt in your mouth, perfect for any occasion.",
+        "descricao": "Tortas e bolos que derretem na boca, perfeitos para qualquer ocasião.",
         "capa": "img/sweet-heaven-logo.png"
       },
       {
@@ -85,7 +85,7 @@
         "nome": "Choco Bliss",
         "categoria": "doces",
         "avaliacao": 4.7,
-        "descricao": "Specialized in handmade chocolates and irresistible desserts.",
+        "descricao": "Especializado em chocolates artesanais e sobremesas irresistíveis.",
         "capa": "img/choco-bliss-logo.png"
       },
       {
@@ -93,7 +93,7 @@
         "nome": "Delícia Gelada",
         "categoria": "doces",
         "avaliacao": 4.6,
-        "descricao": "Ice creams and milkshakes with unique and delicious flavors.",
+        "descricao": "Sorvetes e milkshakes com sabores únicos e deliciosos.",
         "capa": "img/delicia-gelada-logo.png"
       },
       {
@@ -101,7 +101,7 @@
         "nome": "Caseirinha",
         "categoria": "marmita",
         "avaliacao": 4.8,
-        "descricao": "Homemade food prepared with love and fresh ingredients.",
+        "descricao": "Comida caseira preparada com amor e ingredientes frescos.",
         "capa": "img/caseirinha-logo.png"
       },
       {
@@ -109,7 +109,7 @@
         "nome": "Marmitex Express",
         "categoria": "marmita",
         "avaliacao": 4.5,
-        "descricao": "Delicious meal boxes delivered in record time.",
+        "descricao": "Marmitas deliciosas entregues em tempo recorde.",
         "capa": "img/marmitex-express-logo.png"
       },
       {
@@ -117,7 +117,7 @@
         "nome": "Sabor do Lar",
         "categoria": "marmita",
         "avaliacao": 4.7,
-        "descricao": "Flavors that remind you of grandma's home cooking.",
+        "descricao": "Sabores que lembram a comida da vovó.",
         "capa": "img/sabor-do-lar-logo.png"
       },
       {
@@ -125,7 +125,7 @@
         "nome": "Green Bowl",
         "categoria": "saudável",
         "avaliacao": 4.7,
-        "descricao": "Salads, wraps, and bowls that are nutritious for a light and balanced diet.",
+        "descricao": "Saladas, wraps e bowls nutritivos para uma dieta leve e equilibrada.",
         "capa": "img/green-bowl-logo.png"
       },
       {
@@ -133,7 +133,7 @@
         "nome": "Vida Leve",
         "categoria": "saudável",
         "avaliacao": 4.8,
-        "descricao": "Healthy and flavorful dishes, perfect for daily life.",
+        "descricao": "Pratos saudáveis e saborosos, perfeitos para o dia a dia.",
         "capa": "img/vida-leve-logo.png"
       },
       {
@@ -141,7 +141,7 @@
         "nome": "Nature's Delight",
         "categoria": "saudável",
         "avaliacao": 4.9,
-        "descricao": "Fresh and organic combinations for those seeking balance.",
+        "descricao": "Combinações frescas e orgânicas para quem busca equilíbrio.",
         "capa": "img/natures-delight-logo.png"
       }
     ]
@@ -151,196 +151,196 @@
       {
         "id": 1,
         "nome": "Smash Blast",
-        "descricao": "Juicy smash burger with house-made mayonnaise, cheese, and salad.",
+        "descricao": "Hambúrguer smash suculento com maionese caseira, queijo e salada.",
         "restaurante": "Burger Blast",
         "capa": "img/smash-blast.png"
       },
       {
         "id": 2,
         "nome": "Burger Supreme",
-        "descricao": "Double burger with cheddar cheese, crispy bacon, and special sauce.",
+        "descricao": "Hambúrguer duplo com queijo cheddar, bacon crocante e molho especial.",
         "restaurante": "Burger Blast",
         "capa": "img/burger-supreme.png"
       },
       {
         "id": 3,
         "nome": "Chicken Blast",
-        "descricao": "Breaded chicken fillet in a brioche bun with seasoned mayonnaise.",
+        "descricao": "Filé de frango empanado no pão brioche com maionese temperada.",
         "restaurante": "Burger Blast",
         "capa": "img/chicken-blast.png"
       },
       {
         "id": 4,
         "nome": "Veggie Delight",
-        "descricao": "Vegetarian burger made with chickpeas and fine herbs.",
+        "descricao": "Hambúrguer vegetariano feito com grão-de-bico e ervas finas.",
         "restaurante": "Burger Blast",
         "capa": "img/veggie-delight.png"
       },
       {
         "id": 5,
         "nome": "Onion Rings Combo",
-        "descricao": "Crispy onion rings served with barbecue sauce.",
+        "descricao": "Anéis de cebola crocantes servidos com molho barbecue.",
         "restaurante": "Burger Blast",
         "capa": "img/onion-rings.png"
       },
       {
         "id": 6,
         "nome": "Cheddar Fries",
-        "descricao": "Fries topped with creamy cheddar cheese and bacon.",
+        "descricao": "Batatas fritas cobertas com queijo cheddar cremoso e bacon.",
         "restaurante": "Burger Blast",
         "capa": "img/cheddar-fries.png"
       },
       {
         "id": 7,
         "nome": "Classic Fries",
-        "descricao": "Crispy fries seasoned with a special blend of spices.",
+        "descricao": "Batatas fritas crocantes temperadas com uma mistura especial de especiarias.",
         "restaurante": "Fritas & Cia",
         "capa": "img/fritas-classicas.png"
       },
       {
         "id": 8,
         "nome": "Cheddar Fries",
-        "descricao": "Fries topped with melted cheddar cheese and special sauce.",
+        "descricao": "Batatas fritas cobertas com queijo cheddar derretido e molho especial.",
         "restaurante": "Fritas & Cia",
         "capa": "img/fritas-cheddar.png"
       },
       {
         "id": 9,
         "nome": "Bacon Lovers Fries",
-        "descricao": "Fries covered with crispy bacon.",
+        "descricao": "Batatas fritas cobertas com bacon crocante.",
         "restaurante": "Fritas & Cia",
         "capa": "img/fritas-bacon-lovers.png"
       },
       {
         "id": 10,
         "nome": "Supreme Fries",
-        "descricao": "Fries with cheese, ground beef, and ranch dressing.",
+        "descricao": "Batatas fritas com queijo, carne moída e molho ranch.",
         "restaurante": "Fritas & Cia",
         "capa": "img/fritas-supreme.png"
       },
       {
         "id": 11,
         "nome": "Rustic Fries",
-        "descricao": "Rustic fries seasoned with rosemary and sea salt.",
+        "descricao": "Batatas rústicas temperadas com alecrim e sal marinho.",
         "restaurante": "Fritas & Cia",
         "capa": "img/fritas-rusticas.png"
       },
       {
         "id": 12,
         "nome": "Sweet Potato Fries",
-        "descricao": "Fried sweet potatoes with a touch of honey.",
+        "descricao": "Batatas-doces fritas com um toque de mel.",
         "restaurante": "Fritas & Cia",
         "capa": "img/sweet-potato-fries.png"
       },
       {
         "id": 13,
         "nome": "Traditional Hot Dog",
-        "descricao": "Hot dog with sausage, ketchup, and mustard.",
+        "descricao": "Cachorro-quente com salsicha, ketchup e mostarda.",
         "restaurante": "Mega Dogs",
         "capa": "img/hotdog-tradicional.png"
       },
       {
         "id": 14,
         "nome": "Supreme Hot Dog",
-        "descricao": "Hot dog with cheddar cheese, bacon, and crispy potato sticks.",
+        "descricao": "Cachorro-quente com queijo cheddar, bacon e batata palha crocante.",
         "restaurante": "Mega Dogs",
         "capa": "img/hotdog-supreme.png"
       },
       {
         "id": 15,
         "nome": "Mega Dog Cheese",
-        "descricao": "Hot dog with creamy cheese and special sauce.",
+        "descricao": "Cachorro-quente com queijo cremoso e molho especial.",
         "restaurante": "Mega Dogs",
         "capa": "img/mega-dog-cheese.png"
       },
       {
         "id": 16,
         "nome": "Mega Dog Veggie",
-        "descricao": "Hot dog with vegetarian sausage and salad.",
+        "descricao": "Cachorro-quente com salsicha vegetariana e salada.",
         "restaurante": "Mega Dogs",
         "capa": "img/mega-dog-veggie.png"
       },
       {
         "id": 17,
         "nome": "BBQ Hot Dog",
-        "descricao": "Hot dog with barbecue sauce and caramelized onions.",
+        "descricao": "Cachorro-quente com molho barbecue e cebolas caramelizadas.",
         "restaurante": "Mega Dogs",
         "capa": "img/hotdog-bbq.png"
       },
       {
         "id": 18,
         "nome": "Mega Combo Dog",
-        "descricao": "Hot dog with all the ingredients in one perfect combo.",
+        "descricao": "Cachorro-quente com todos os ingredientes em um combo perfeito.",
         "restaurante": "Mega Dogs",
         "capa": "img/mega-combo-dog.png"
       },
       {
         "id": 19,
         "nome": "Traditional Sushi",
-        "descricao": "Sushi combination with fresh salmon and tuna.",
+        "descricao": "Combinado de sushi com salmão fresco e atum.",
         "restaurante": "Sushi Zen",
         "capa": "img/sushi-tradicional.png"
       },
       {
         "id": 20,
         "nome": "Salmon Temaki",
-        "descricao": "Seaweed cone filled with salmon and seasoned rice.",
+        "descricao": "Cone de alga recheado com salmão e arroz temperado.",
         "restaurante": "Sushi Zen",
         "capa": "img/temaki-salmao.png"
       },
       {
         "id": 21,
         "nome": "Special Sashimi",
-        "descricao": "Fresh slices of salmon, tuna, and white fish.",
+        "descricao": "Fatias frescas de salmão, atum e peixe branco.",
         "restaurante": "Sushi Zen",
         "capa": "img/sashimi-especial.png"
       },
       {
         "id": 22,
         "nome": "California Uramaki",
-        "descricao": "Rice roll with mango, kani, and cucumber.",
+        "descricao": "Enrolado de arroz com manga, kani e pepino.",
         "restaurante": "Sushi Zen",
         "capa": "img/uramaki-california.png"
       },
       {
         "id": 23,
         "nome": "Salmon Nigiri",
-        "descricao": "Rice topped with a slice of fresh salmon.",
+        "descricao": "Arroz coberto com uma fatia de salmão fresco.",
         "restaurante": "Sushi Zen",
         "capa": "img/nigiri-salmao.png"
       },
       {
         "id": 24,
         "nome": "Special Gunkan",
-        "descricao": "Rice ball topped with fish roe.",
+        "descricao": "Bolinho de arroz coberto com ovas de peixe.",
         "restaurante": "Sushi Zen",
         "capa": "img/gunkan-especial.png"
       },
       {
         "id": 25,
         "nome": "Special Sushi",
-        "descricao": "Sushi combination with fresh fish and tare sauce.",
+        "descricao": "Combinado de sushi com peixe fresco e molho tare.",
         "restaurante": "Tokyo Bites",
         "capa": "img/sushi-especial.png"
       },
       {
         "id": 26,
         "nome": "California Temaki",
-        "descricao": "Seaweed cone with fresh fish, avocado, and cucumber.",
+        "descricao": "Cone de alga com peixe fresco, abacate e pepino.",
         "restaurante": "Tokyo Bites",
         "capa": "img/temaki-california.png"
       },
       {
         "id": 27,
         "nome": "Tuna Sashimi",
-        "descricao": "Fresh slices of tuna served with soy sauce.",
+        "descricao": "Fatias frescas de atum servidas com molho shoyu.",
         "restaurante": "Tokyo Bites",
         "capa": "img/sashimi-atum.png"
       },
       {
         "id": 28,
         "nome": "Special Nigiri",
-        "descricao": "Sushi rice topped with thin slices of special fish.",
+        "descricao": "Arroz de sushi coberto com finas fatias de peixe especial.",
         "restaurante": "Tokyo Bites",
         "capa": "img/nigiri-especial.png"
       },
@@ -349,49 +349,49 @@
         "nome": "Salmon Uramaki",
         "descricao": "Rice roll with salmon and avocado.",
         "restaurante": "Tokyo Bites",
-        "capa": "img/uramaki-salmao.png"
+        "capa": "img/uramaki-salmon.png"
       },
       {
         "id": 30,
         "nome": "Tuna Maki",
         "descricao": "Rice rolls with fresh tuna and soy sauce.",
         "restaurante": "Tokyo Bites",
-        "capa": "img/maki-atum.png"
+        "capa": "img/maki-tuna.png"
       },
       {
         "id": 31,
         "nome": "Traditional Ramen",
         "descricao": "Noodle soup with rich broth and pork.",
         "restaurante": "Ramen House",
-        "capa": "img/ramen-tradicional.png"
+        "capa": "img/ramen-traditional.png"
       },
       {
         "id": 32,
         "nome": "Chicken Ramen",
         "descricao": "Ramen with grilled chicken, bamboo shoots, and boiled eggs.",
         "restaurante": "Ramen House",
-        "capa": "img/ramen-frango.png"
+        "capa": "img/ramen-chicken.png"
       },
       {
         "id": 33,
         "nome": "Vegetarian Yakisoba",
         "descricao": "Fried noodles with vegetables and special sauce.",
         "restaurante": "Ramen House",
-        "capa": "img/yakisoba-vegetariano.png"
+        "capa": "img/yakisoba-vegetarian.png"
       },
       {
         "id": 34,
         "nome": "Vegetable Gyoza",
         "descricao": "Japanese dumplings filled with fresh vegetables.",
         "restaurante": "Ramen House",
-        "capa": "img/gyoza-legumes.png"
+        "capa": "img/gyoza-vegetable.png"
       },
       {
         "id": 35,
         "nome": "Shrimp Tempura",
         "descricao": "Battered and fried shrimp served with tare sauce.",
         "restaurante": "Ramen House",
-        "capa": "img/tempura-camarao.png"
+        "capa": "img/tempura-shrimp.png"
       },
       {
         "id": 36,
@@ -410,9 +410,9 @@
       {
         "id": 38,
         "nome": "Bolognese Lasagna",
-        "descricao": "Layers of pasta with bolognese sauce, cheese, and bechamel.",
+        "descricao": "Layers of pasta with bolognese sauce, cheese, and béchamel.",
         "restaurante": "La Pasta",
-        "capa": "img/lasanha-bolonhesa.png"
+        "capa": "img/lasagna-bolognese.png"
       },
       {
         "id": 39,
@@ -426,7 +426,7 @@
         "nome": "Ricotta Ravioli",
         "descricao": "Ravioli stuffed with ricotta and spinach, served with tomato sauce.",
         "restaurante": "La Pasta",
-        "capa": "img/ravioli-ricota.png"
+        "capa": "img/ravioli-ricotta.png"
       },
       {
         "id": 41,
@@ -440,469 +440,469 @@
         "nome": "Tagliatelle with Mushrooms",
         "descricao": "Tagliatelle pasta with a fresh mushroom sauce and cream.",
         "restaurante": "La Pasta",
-        "capa": "img/tagliatelle-cogumelos.png"
+        "capa": "img/tagliatelle-mushrooms.png"
       },
       {
         "id": 43,
         "nome": "Spaghetti Puttanesca",
         "descricao": "Spaghetti with a tomato sauce, olives, capers, and anchovies.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/espaguete-putanesca.png"
+        "capa": "img/spaghetti-puttanesca.png"
       },
       {
         "id": 44,
         "nome": "Spaghetti Aglio e Olio",
         "descricao": "Simple spaghetti with fried garlic, olive oil, and chili flakes.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/espaguete-alho-oleo.png"
+        "capa": "img/spaghetti-aglio-olio.png"
       },
       {
         "id": 45,
         "nome": "Vegetarian Lasagna",
         "descricao": "Lasagna with layers of grilled vegetables and white sauce.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/lasanha-vegetariana.png"
+        "capa": "img/lasagna-vegetarian.png"
       },
       {
         "id": 46,
         "nome": "Spaghetti with White Sauce",
         "descricao": "Pasta with a creamy cheese and nutmeg white sauce.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/spaghetti-molho-branco.png"
+        "capa": "img/spaghetti-white-sauce.png"
       },
       {
         "id": 47,
         "nome": "Mushroom Ravioli",
         "descricao": "Ravioli stuffed with mushrooms, served with truffle sauce.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/ravioli-cogumelos.png"
+        "capa": "img/ravioli-mushroom.png"
       },
       {
         "id": 48,
         "nome": "Puttanesca Pasta",
         "descricao": "Pasta with a tomato sauce, olives, garlic, and anchovies.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/macarrao-puttanesca.png"
+        "capa": "img/pasta-puttanesca.png"
       },
       {
         "id": 49,
         "nome": "Meat Ravioli",
         "descricao": "Ravioli stuffed with ground meat, served with a tomato sauce.",
         "restaurante": "Spaghetti & Co.",
-        "capa": "img/ravioli-carne.png"
+        "capa": "img/ravioli-meat.png"
       },
       {
         "id": 50,
         "nome": "Pumpkin Ravioli",
         "descricao": "Ravioli filled with pumpkin and ricotta, served with butter sauce.",
         "restaurante": "Ravioli Dreams",
-        "capa": "img/ravioli-abobora.png"
+        "capa": "img/ravioli-pumpkin.png"
       },
       {
         "id": 51,
         "nome": "Chicken and Mustard Ravioli",
-        "descricao": "Ravioli filled with chicken and mustard sauce.",
+        "descricao": "Ravioli recheado com frango e molho de mostarda.",
         "restaurante": "Ravioli Dreams",
         "capa": "img/ravioli-frango-mostarda.png"
       },
       {
         "id": 52,
         "nome": "Ricotta and Spinach Ravioli",
-        "descricao": "Ravioli filled with ricotta and spinach, served with white sauce.",
+        "descricao": "Ravioli recheado com ricota e espinafre, servido com molho branco.",
         "restaurante": "Ravioli Dreams",
         "capa": "img/ravioli-ricota-espinafre.png"
       },
       {
         "id": 53,
         "nome": "Pesto Ravioli",
-        "descricao": "Ravioli filled with basil and served with pesto sauce.",
+        "descricao": "Ravioli recheado com manjericão e servido com molho pesto.",
         "restaurante": "Ravioli Dreams",
         "capa": "img/ravioli-pesto.png"
       },
       {
         "id": 54,
         "nome": "Beef Sauce Ravioli",
-        "descricao": "Ravioli filled with meat and served with minced beef sauce.",
+        "descricao": "Ravioli recheado com carne e servido com molho de carne moída.",
         "restaurante": "Ravioli Dreams",
         "capa": "img/ravioli-molho-carne.png"
       },
       {
         "id": 55,
         "nome": "Lemon Pie",
-        "descricao": "Creamy lemon pie with a crunchy crust and meringue topping.",
+        "descricao": "Torta de limão cremosa com crosta crocante e cobertura de merengue.",
         "restaurante": "Sweet Heaven",
         "capa": "img/torta-limao.png"
       },
       {
         "id": 56,
         "nome": "Chocolate and Strawberry Cake",
-        "descricao": "Fluffy chocolate cake topped with fresh strawberries and chocolate ganache.",
+        "descricao": "Bolo fofinho de chocolate coberto com morangos frescos e ganache de chocolate.",
         "restaurante": "Sweet Heaven",
         "capa": "img/bolo-chocolate-morango.png"
       },
       {
         "id": 57,
         "nome": "Red Velvet Cake",
-        "descricao": "Light-textured red cake with cream cheese and smooth frosting.",
+        "descricao": "Bolo vermelho de textura leve com cream cheese e cobertura suave.",
         "restaurante": "Sweet Heaven",
         "capa": "img/bolo-red-velvet.png"
       },
       {
         "id": 58,
         "nome": "Strawberry Trifle",
-        "descricao": "Strawberry trifle with vanilla cream, topped with a crunchy biscuit layer.",
+        "descricao": "Trifle de morango com creme de baunilha, coberto com uma camada crocante de biscoito.",
         "restaurante": "Sweet Heaven",
         "capa": "img/pave-morango.png"
       },
       {
         "id": 59,
         "nome": "Berry Cheesecake",
-        "descricao": "Smooth cheesecake with a topping of fresh berries.",
+        "descricao": "Cheesecake suave com cobertura de frutas vermelhas frescas.",
         "restaurante": "Sweet Heaven",
         "capa": "img/cheesecake-frutas-vermelhas.png"
       },
       {
         "id": 60,
         "nome": "Apple Pie",
-        "descricao": "Apple pie with cinnamon, golden crust, and soft filling.",
+        "descricao": "Torta de maçã com canela, crosta dourada e recheio macio.",
         "restaurante": "Sweet Heaven",
         "capa": "img/torta-maca.png"
       },
       {
         "id": 61,
         "nome": "Handmade Chocolate",
-        "descricao": "Truffle-filled chocolate bonbons made with Belgian chocolate.",
+        "descricao": "Bombons de chocolate recheados com trufas feitos com chocolate belga.",
         "restaurante": "Choco Bliss",
         "capa": "img/chocolate-artesanal.png"
       },
       {
         "id": 62,
         "nome": "Brigadeiro Pie",
-        "descricao": "Pie filled with creamy brigadeiro and topped with white brigadeiro.",
+        "descricao": "Torta recheada com brigadeiro cremoso e coberta com brigadeiro branco.",
         "restaurante": "Choco Bliss",
         "capa": "img/torta-brigadeiro.png"
       },
       {
         "id": 63,
         "nome": "Passion Fruit Truffle",
-        "descricao": "Chocolate truffle filled with passion fruit, offering an exotic and sweet touch.",
+        "descricao": "Trufa de chocolate recheada com maracujá, oferecendo um toque exótico e doce.",
         "restaurante": "Choco Bliss",
         "capa": "img/trufa-maracuja.png"
       },
       {
         "id": 64,
         "nome": "Chocolate and Walnut Cake",
-        "descricao": "Chocolate cake filled with walnuts and topped with dark chocolate ganache.",
+        "descricao": "Bolo de chocolate recheado com nozes e coberto com ganache de chocolate amargo.",
         "restaurante": "Choco Bliss",
         "capa": "img/bolo-chocolate-nozes.png"
       },
       {
         "id": 65,
         "nome": "Chocolate Bomb",
-        "descricao": "Chocolate bomb filled with hazelnut cream.",
+        "descricao": "Bomba de chocolate recheada com creme de avelã.",
         "restaurante": "Choco Bliss",
         "capa": "img/bomba-chocolate.png"
       },
       {
         "id": 66,
         "nome": "Chocolate Brownie",
-        "descricao": "Soft chocolate brownie with dark chocolate pieces and walnuts.",
+        "descricao": "Brownie de chocolate macio com pedaços de chocolate amargo e nozes.",
         "restaurante": "Choco Bliss",
         "capa": "img/brownie-chocolate.png"
       },
       {
         "id": 67,
         "nome": "Vanilla Ice Cream",
-        "descricao": "Creamy vanilla ice cream, perfect for those who love a classic.",
+        "descricao": "Sorvete de baunilha cremoso, perfeito para quem adora um clássico.",
         "restaurante": "Delícia Gelada",
         "capa": "img/sorvete-creme.png"
       },
       {
         "id": 68,
         "nome": "Chocolate Milkshake",
-        "descricao": "Chocolate milkshake with pieces of Belgian chocolate and whipped cream.",
+        "descricao": "Milkshake de chocolate com pedaços de chocolate belga e chantilly.",
         "restaurante": "Delícia Gelada",
         "capa": "img/milkshake-chocolate.png"
       },
       {
         "id": 69,
         "nome": "Strawberry Sundae",
-        "descricao": "Strawberry ice cream sundae with berry sauce.",
+        "descricao": "Sundae de sorvete de morango com molho de frutas.",
         "restaurante": "Delícia Gelada",
         "capa": "img/sundae-morango.png"
       },
       {
         "id": 70,
         "nome": "Pistachio Ice Cream",
-        "descricao": "Pistachio ice cream, creamy with crushed pistachio pieces.",
+        "descricao": "Sorvete de pistache, cremoso com pedaços de pistache triturados.",
         "restaurante": "Delícia Gelada",
         "capa": "img/sorvete-pistache.png"
       },
       {
         "id": 71,
         "nome": "Ice Cream Cup with Sprinkles",
-        "descricao": "Vanilla ice cream with colorful sprinkles, served in a cup.",
+        "descricao": "Sorvete de baunilha com confeitos coloridos, servido em um copo.",
         "restaurante": "Delícia Gelada",
         "capa": "img/copo-sorvete.png"
       },
       {
         "id": 72,
         "nome": "Vanilla Milkshake",
-        "descricao": "Vanilla milkshake, light and creamy, served with whipped cream.",
+        "descricao": "Milkshake de baunilha, leve e cremoso, servido com chantilly.",
         "restaurante": "Delícia Gelada",
         "capa": "img/milkshake-baunilha.png"
       },
       {
         "id": 73,
         "nome": "Complete Feijoada",
-        "descricao": "Traditional feijoada, served with rice, farofa, collard greens, and orange.",
+        "descricao": "Feijoada tradicional, servida com arroz, farofa, couve e laranja.",
         "restaurante": "Caseirinha",
         "capa": "img/feijoada-completa.png"
       },
       {
         "id": 74,
         "nome": "Rice with Pequi",
-        "descricao": "Rice with pequi and sun-dried beef, a typical Brazilian dish.",
+        "descricao": "Arroz com pequi e carne de sol, um prato típico brasileiro.",
         "restaurante": "Caseirinha",
         "capa": "img/arroz-pequi.png"
       },
       {
         "id": 75,
         "nome": "Chicken with Okra",
-        "descricao": "Shredded chicken with okra and white rice.",
+        "descricao": "Frango desfiado com quiabo e arroz branco.",
         "restaurante": "Caseirinha",
         "capa": "img/frango-quiabo.png"
       },
       {
         "id": 76,
         "nome": "Ground Beef Meal",
-        "descricao": "Ground beef sautéed with vegetables and white rice.",
+        "descricao": "Carne moída refogada com legumes e arroz branco.",
         "restaurante": "Caseirinha",
         "capa": "img/marmita-carne-moida.png"
       },
       {
         "id": 77,
         "nome": "Parmesan Steak",
-        "descricao": "Breaded steak with tomato sauce and melted cheese, served with rice and potatoes.",
+        "descricao": "Bife empanado com molho de tomate e queijo derretido, servido com arroz e batatas.",
         "restaurante": "Caseirinha",
         "capa": "img/bife-parmegiana.png"
       },
       {
         "id": 78,
         "nome": "Shredded Dried Beef Casserole",
-        "descricao": "Shredded dried beef casserole with mashed cassava.",
+        "descricao": "Casserola de carne seca desfiada com purê de mandioca.",
         "restaurante": "Caseirinha",
         "capa": "img/escondidinho-carne-seca.png"
       },
       {
         "id": 79,
         "nome": "Grilled Chicken Meal",
-        "descricao": "Grilled chicken, brown rice, and fresh salad.",
+        "descricao": "Frango grelhado, arroz integral e salada fresca.",
         "restaurante": "Marmitex Express",
         "capa": "img/marmita-frango-grelhado.png"
       },
       {
         "id": 80,
         "nome": "Tropeiro Beans",
-        "descricao": "Tropeiro beans with rice, pork meat, and egg.",
+        "descricao": "Feijão tropeiro com arroz, carne de porco e ovo.",
         "restaurante": "Marmitex Express",
         "capa": "img/feijao-tropeiro.png"
       },
       {
         "id": 81,
-        "nome": "Chicken with Sweet Potato",
-        "descricao": "Grilled chicken with roasted sweet potatoes and salad.",
+        "nome": "Frango com Batata Doce",
+        "descricao": "Frango grelhado com batatas doces assadas e salada.",
         "restaurante": "Marmitex Express",
         "capa": "img/frango-batata-doce.png"
       },
       {
         "id": 82,
-        "nome": "Roast Beef Meal",
-        "descricao": "Roast beef, rice, beans, and farofa.",
+        "nome": "Prato de Carne Assada",
+        "descricao": "Carne assada, arroz, feijão e farofa.",
         "restaurante": "Marmitex Express",
         "capa": "img/marmita-carne-assada.png"
       },
       {
         "id": 83,
-        "nome": "Chicken Salad",
-        "descricao": "Fresh green salad with grilled chicken and special dressing.",
+        "nome": "Salada de Frango",
+        "descricao": "Salada verde fresca com frango grelhado e molho especial.",
         "restaurante": "Marmitex Express",
         "capa": "img/salada-frango.png"
       },
       {
         "id": 84,
-        "nome": "Beef Stew with Vegetables",
-        "descricao": "Beef stew with assorted vegetables.",
+        "nome": "Ensopado de Carne com Legumes",
+        "descricao": "Ensopado de carne com legumes variados.",
         "restaurante": "Marmitex Express",
         "capa": "img/ensopado-carne.png"
       },
       {
         "id": 85,
-        "nome": "Brazilian Pastel",
-        "descricao": "Fried pastry filled with cheese, meat, or chicken.",
+        "nome": "Pastel Brasileiro",
+        "descricao": "Pastel frito recheado com queijo, carne ou frango.",
         "restaurante": "Pastelaria Brasil",
         "capa": "img/pastel-frito.png"
       },
       {
         "id": 86,
-        "nome": "Chicken with Orange Sauce",
-        "descricao": "Grilled chicken with orange sauce and roasted potatoes.",
+        "nome": "Frango com Molho de Laranja",
+        "descricao": "Frango grelhado com molho de laranja e batatas assadas.",
         "restaurante": "Sabor do Lar",
         "capa": "img/frango-laranja-sabor-lar.png"
       },
       {
         "id": 87,
-        "nome": "Carreteiro Rice",
-        "descricao": "Rice with shredded sun-dried beef, sausage, and vegetables.",
+        "nome": "Arroz Carreteiro",
+        "descricao": "Arroz com carne de sol desfiada, linguiça e legumes.",
         "restaurante": "Sabor do Lar",
         "capa": "img/arroz-carreteiro-sabor-lar.png"
       },
       {
         "id": 88,
-        "nome": "Chicken Parmesan",
-        "descricao": "Breaded chicken, topped with tomato sauce and cheese, served with rice and potatoes.",
+        "nome": "Frango à Parmegiana",
+        "descricao": "Frango empanado, coberto com molho de tomate e queijo, servido com arroz e batatas.",
         "restaurante": "Sabor do Lar",
         "capa": "img/bife-parmegiana-sabor-lar.png"
       },
       {
         "id": 89,
-        "nome": "Dry Meat Hidden Dish",
-        "descricao": "Hidden dish with dried meat and manioc puree.",
+        "nome": "Escondidinho de Carne Seca",
+        "descricao": "Escondidinho com carne seca e purê de mandioca.",
         "restaurante": "Sabor do Lar",
         "capa": "img/escondidinho-carne-seca-sabor-lar.png"
       },
       {
         "id": 90,
-        "nome": "Rice and Beans Meal",
-        "descricao": "Fresh rice and beans with beef and vegetables.",
+        "nome": "Prato de Arroz e Feijão",
+        "descricao": "Arroz e feijão frescos com carne e legumes.",
         "restaurante": "Sabor do Lar",
         "capa": "img/arroz-feijao-sabor-lar.png"
       },
       {
         "id": 91,
-        "nome": "Mediterranean Salad",
-        "descricao": "Fresh salad with lettuce, tomato, cucumber, feta cheese, and olive oil.",
+        "nome": "Salada Mediterrânea",
+        "descricao": "Salada fresca com alface, tomate, pepino, queijo feta e azeite de oliva.",
         "restaurante": "Green Bowl",
         "capa": "img/salada-mediterranea.png"
       },
       {
         "id": 92,
-        "nome": "Chicken Wrap",
-        "descricao": "Whole wheat wrap with grilled chicken, fresh vegetables, and yogurt sauce.",
+        "nome": "Wrap de Frango",
+        "descricao": "Wrap de trigo integral com frango grelhado, vegetais frescos e molho de iogurte.",
         "restaurante": "Green Bowl",
         "capa": "img/wrap-frango.png"
       },
       {
         "id": 93,
-        "nome": "Quinoa and Avocado Bowl",
-        "descricao": "Quinoa bowl with avocado, cucumber, tomato, and lemon sauce.",
+        "nome": "Bowl de Quinoa e Abacate",
+        "descricao": "Bowl de quinoa com abacate, pepino, tomate e molho de limão.",
         "restaurante": "Green Bowl",
         "capa": "img/bowl-quinoa-abacate.png"
       },
       {
         "id": 94,
-        "nome": "Chickpea Salad",
-        "descricao": "Chickpea salad with fresh vegetables, olive oil, and lemon.",
+        "nome": "Salada de Grão-de-Bico",
+        "descricao": "Salada de grão-de-bico com vegetais frescos, azeite de oliva e limão.",
         "restaurante": "Green Bowl",
         "capa": "img/salada-grao-bico.png"
       },
       {
         "id": 95,
-        "nome": "Green Smoothie",
-        "descricao": "Smoothie with spinach, pineapple, banana, and ginger.",
+        "nome": "Smoothie Verde",
+        "descricao": "Smoothie com espinafre, abacaxi, banana e gengibre.",
         "restaurante": "Green Bowl",
         "capa": "img/smoothie-verde.png"
       },
       {
         "id": 96,
-        "nome": "Acai Bowl",
-        "descricao": "Acai with granola, fresh fruits, and honey.",
+        "nome": "Açaí Bowl",
+        "descricao": "Açaí com granola, frutas frescas e mel.",
         "restaurante": "Green Bowl",
         "capa": "img/acaibowl.png"
       },
       {
         "id": 97,
-        "nome": "Chicken and Pumpkin Bowl",
-        "descricao": "Grilled chicken bowl with roasted pumpkin, brown rice, and mustard sauce.",
+        "nome": "Bowl de Frango e Abóbora",
+        "descricao": "Bowl de frango grelhado com abóbora assada, arroz integral e molho de mostarda.",
         "restaurante": "Vida Leve",
         "capa": "img/bowl-frango-abobora.png"
       },
       {
         "id": 98,
-        "nome": "Avocado and Tomato Salad",
-        "descricao": "Fresh salad with avocado, tomato, cucumber, and olive oil dressing.",
+        "nome": "Salada de Abacate e Tomate",
+        "descricao": "Salada fresca com abacate, tomate, pepino e molho de azeite de oliva.",
         "restaurante": "Vida Leve",
         "capa": "img/salada-abacate-tomate.png"
       },
       {
         "id": 99,
-        "nome": "Vegan Wrap",
-        "descricao": "Whole wheat wrap with hummus, fresh vegetables, and leafy greens.",
+        "nome": "Wrap Vegano",
+        "descricao": "Wrap de trigo integral com homus, vegetais frescos e folhas verdes.",
         "restaurante": "Vida Leve",
         "capa": "img/wrap-vegano.png"
       },
       {
         "id": 100,
-        "nome": "Berry Smoothie",
-        "descricao": "Smoothie with berries, banana, and almond milk.",
+        "nome": "Smoothie de Frutas Vermelhas",
+        "descricao": "Smoothie com frutas vermelhas, banana e leite de amêndoas.",
         "restaurante": "Vida Leve",
         "capa": "img/smoothie-frutas-vermelhas.png"
       },
       {
         "id": 101,
-        "nome": "Cauliflower Rice",
-        "descricao": "Stir-fried cauliflower rice with vegetables and soy sauce.",
+        "nome": "Arroz de Couve-Flor",
+        "descricao": "Arroz de couve-flor refogado com legumes e molho de soja.",
         "restaurante": "Vida Leve",
         "capa": "img/arroz-couve-flor.png"
       },
       {
         "id": 102,
-        "nome": "Grilled Chicken with Vegetables",
-        "descricao": "Grilled chicken served with steamed broccoli, carrots, and zucchini.",
+        "nome": "Frango Grelhado com Legumes",
+        "descricao": "Frango grelhado servido com brócolis, cenoura e abobrinha no vapor.",
         "restaurante": "Vida Leve",
         "capa": "img/frango-grelhado-legumes.png"
       },
       {
         "id": 103,
-        "nome": "Quinoa and Pineapple Salad",
-        "descricao": "Quinoa with pineapple chunks, cucumber, and lemon dressing.",
+        "nome": "Salada de Quinoa e Abacaxi",
+        "descricao": "Quinoa com pedaços de abacaxi, pepino e molho de limão.",
         "restaurante": "Nature's Delight",
         "capa": "img/salada-quinoa-abacaxi.png"
       },
       {
         "id": 104,
-        "nome": "Fruit Bowl",
-        "descricao": "Fresh fruit bowl with granola, honey, and chia seeds.",
+        "nome": "Bowl de Frutas",
+        "descricao": "Bowl de frutas frescas com granola, mel e sementes de chia.",
         "restaurante": "Nature's Delight",
         "capa": "img/bowl-frutas.png"
       },
       {
         "id": 105,
-        "nome": "Detox Juice",
-        "descricao": "Green juice with kale, cucumber, apple, and lemon.",
+        "nome": "Suco Detox",
+        "descricao": "Suco verde com couve, pepino, maçã e limão.",
         "restaurante": "Nature's Delight",
         "capa": "img/suco-detox.png"
       },
       {
         "id": 106,
-        "nome": "Avocado and Chickpea Salad",
-        "descricao": "Salad with avocado, chickpeas, tomato, and olive oil dressing.",
+        "nome": "Salada de Abacate e Grão-de-Bico",
+        "descricao": "Salada com abacate, grão-de-bico, tomate e molho de azeite de oliva.",
         "restaurante": "Nature's Delight",
         "capa": "img/salada-abacate-grao-bico.png"
       },
       {
         "id": 107,
-        "nome": "Pumpkin Soup",
-        "descricao": "Creamy pumpkin soup with ginger and pepper.",
+        "nome": "Sopa de Abóbora",
+        "descricao": "Sopa cremosa de abóbora com gengibre e pimenta.",
         "restaurante": "Nature's Delight",
         "capa": "img/sopa-abobora.png"
       },
       {
         "id": 108,
-        "nome": "Tuna Wrap",
-        "descricao": "Wrap with tuna, leafy greens, and light mustard sauce.",
+        "nome": "Wrap de Atum",
+        "descricao": "Wrap com atum, folhas verdes e molho de mostarda leve.",
         "restaurante": "Nature's Delight",
         "capa": "img/wrap-atum.png"
-      }            
+      }                  
     ] 
 }
